@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-# 👋 Hi, I’m @PedroEstrella
+# 👋 Hi, I’m @PedroEstrella ![](https://komarev.com/ghpvc/?username=PedroEstrella&label=Visitors+Count&color=brightgreen)
 
 I'm a Laravel developer.
 
@@ -26,5 +26,3 @@ I'm a Laravel developer.
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ngoquocdatt)
 
 ---
-![](https://komarev.com/ghpvc/?username=datlechin&label=Visitors+Count&color=brightgreen)
-
