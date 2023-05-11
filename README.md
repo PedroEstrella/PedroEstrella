@@ -20,6 +20,8 @@ I'm a Laravel developer.
 
 ## Github Contributes
 ![](https://github-readme-stats.vercel.app/api?username=datlechin&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)<br/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroEstrella&show_icons=true&theme=transparent)<br/>
 
 ## 🌐Socials
 
