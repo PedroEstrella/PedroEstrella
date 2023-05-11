@@ -19,7 +19,6 @@ I'm a Laravel developer.
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ## Github Contributes
-![](https://github-readme-stats.vercel.app/api?username=datlechin&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=PedroEstrella&show_icons=true&theme=transparent)<br/>
 
 ## 🌐Socials
